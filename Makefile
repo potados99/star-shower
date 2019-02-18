@@ -1,6 +1,6 @@
 # Makefile boilerplate version 0.0.1 (20190204)
 
-TARGET = run
+TARGET = star
 
 CC = gcc
 CFLAGS = -Wall
